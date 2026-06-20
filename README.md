@@ -125,7 +125,7 @@ inside `script.js`.
 Download or Clone the Repository
 
 ```bash
-git remote add origin https://github.com/Praveen-Chaubey/Advanced-Image-Gallery.git
+git remote add origin https://github.com/Praveen-Chaubey1402/Advanced-Image-Gallery.git
 ```
 
 ### Step 2
